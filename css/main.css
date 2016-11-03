@@ -1,0 +1,51 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+hr {
+	height: 3px;
+    color: #7d97ad; /* for old IE */
+    background-color: #7d97ad; /* for Modern Browsers */
+}
+
+.nav_horizontal_line {
+	margin-top: 11px;
+}
+
+
+h2 {
+
+}
+
+h3 {
+	font-size: 2.5em;
+}
+
+article {
+	text-align: center;
+}
+
+.article_pic {
+	width: 100%;
+}
+
+.main_pic {
+	width: 100%;
+}
+
+
+.featured_work {
+	/*I thought margin-left:0px wouldn't make any difference. Why does it happen? :( */
+	margin-left: 0px;
+}
+
+.featured_work_title {
+	margin-top: 40px;
+	color: #7d97ad;
+}
+
+.article_title {
+	color: #2d3c49;
+}
+
+
