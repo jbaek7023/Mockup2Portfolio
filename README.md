@@ -1,7 +1,5 @@
 # Design Mockup Portfolio
-![alt text](img/portfolio.png)
 
-## Project Submission
 You will be provided with a design mockup as a PDF-file and must replicate that design in **HTML and CSS**. You will develop a **responsive** website that will display images, descriptions and links to each of the portfolio projects you will complete throughout the course of your Nanodegree program.
 
 The design mockup is located [here](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/design-mockup-portfolio.pdf)
@@ -42,6 +40,9 @@ The design mockup is located [here](https://storage.googleapis.com/supplemental_
 - HTML - Remove entity references. (See: HTML Style Rules-Entity References.)
 - HTML - Remove type attribute from link and script elements. (See: HTML Style Rules-Type Attributes.)
 - HTML - Use double rather than single quotation marks for attribute values. (See: HTML-HTML Quotation Marks.)
+
+## Project Snapshot
+![alt text](img/portfolio.png)
 
 ## Project Review
 [here](https://review.udacity.com/#!/reviews/264884/shared)
